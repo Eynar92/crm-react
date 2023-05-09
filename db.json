@@ -13,15 +13,8 @@
       "empresa": "Codigo Con Juan",
       "email": "karen_nuevo@juan.com",
       "telefono": "138198313",
-      "notas": "Desea una Rest API",
+      "notas": "Desea una Fake Rest API",
       "id": 2
-    },
-    {
-      "id": 3,
-      "nombre": "Josue",
-      "telefono": 31983913,
-      "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
     },
     {
       "id": 4,
